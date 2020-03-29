@@ -8,8 +8,17 @@
     "start": "next start"
   },
   "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "isomorphic-unfetch": "^3.0.0",
+    "jsonwebtoken": "^8.5.1",
     "next": "9.3.2",
+    "next-cookies": "^2.0.3",
+    "next-images": "^1.4.0",
     "react": "16.13.1",
     "react-dom": "16.13.1"
+  },
+  "devDependencies": {
+    "postcss-preset-env": "^6.7.0",
+    "tailwindcss": "^1.2.0"
   }
 }
